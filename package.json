@@ -1,4 +1,11 @@
 {
-  "name": "yarn-plugin-autolinking",
-  "packageManager": "yarn@4.1.1"
+  "name": "@basixjs/yarn-plugin-autolinking",
+  "packageManager": "yarn@4.1.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@yarnpkg/builder": "^4.0.0",
+    "@yarnpkg/sdks": "^3.1.0"
+  }
 }
