@@ -1128,13 +1128,13 @@ __metadata:
   linkType: hard
 
 "clipanion@npm:^4.0.0-rc.2":
-  version: 4.0.0-rc.3
-  resolution: "clipanion@npm:4.0.0-rc.3"
+  version: 4.0.0-rc.4
+  resolution: "clipanion@npm:4.0.0-rc.4"
   dependencies:
     typanion: "npm:^3.8.0"
   peerDependencies:
     typanion: "*"
-  checksum: 10c0/5171fd04539b39b5483bd097d5f828da165fa47b4718378cb0bc3c2f70dfa11736f01727cfa4b9566fc8eabad03473e62ae98470c4c8d15c618ee1294e07169f
+  checksum: 10c0/047b415b59a5e9777d00690fba563ccc850eca6bf27790a88d1deea3ecc8a89840ae9aed554ff284cc698a9f3f20256e43c25ff4a7c4c90a71e5e7d9dca61dd1
   languageName: node
   linkType: hard
 
