@@ -255,29 +255,29 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 22.7.2
-  resolution: "@types/node@npm:22.7.2"
+  version: 22.13.14
+  resolution: "@types/node@npm:22.13.14"
   dependencies:
-    undici-types: "npm:~6.19.2"
-  checksum: 10c0/987e4df034e4af0ce76b938c2c0d94373da376b228f1c93081a661c77e682795c599bcad47c93c70a25b8ea443587137cf23088fb7f62ef442955f13046eae3d
+    undici-types: "npm:~6.20.0"
+  checksum: 10c0/fa2ab5b8277bfbcc86c42e46a3ea9871b0d559894cc9d955685d17178c9499f0b1bf03d1d1ea8d92ef2dda818988f4035acb8abf9dc15423a998fa56173ab804
   languageName: node
   linkType: hard
 
 "@types/node@npm:^18.17.15":
-  version: 18.19.53
-  resolution: "@types/node@npm:18.19.53"
+  version: 18.19.84
+  resolution: "@types/node@npm:18.19.84"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 10c0/9612c38f63928abffbdabfa8e61c3adf30ff5483884eadd2fab4a790f0b2b51efdf773c76a21601c627850763da216140a4d163b27d8c6d1fa5250b0d11f683b
+  checksum: 10c0/c54c6d0b62e65c9d34e18aa1663b36482a791a3d7457b820df92383bfa065d3bb82e48c28643e6d0262a0f8cfb5049febfa88d606a43fa338af82d216dcb1d22
   languageName: node
   linkType: hard
 
 "@types/node@npm:^20.0.0":
-  version: 20.16.9
-  resolution: "@types/node@npm:20.16.9"
+  version: 20.17.28
+  resolution: "@types/node@npm:20.17.28"
   dependencies:
     undici-types: "npm:~6.19.2"
-  checksum: 10c0/52d7cbd6792a26e6757c913d1f6dd0fb0104ac44c93dd87480c011d1211b3a1ba282962996bf6aec03f633b5b39f61576f1bafe8436592ab08ad39464e53e4b0
+  checksum: 10c0/d77214e54d8f303d0a79fc896f8c4267b057fbc774448f6d09d24874d521293cd6036292e79b2791a6aef18895bd80dc58c1853bd8a0cf261b08500083f07273
   languageName: node
   linkType: hard
 
@@ -2431,6 +2431,13 @@ __metadata:
   version: 6.19.8
   resolution: "undici-types@npm:6.19.8"
   checksum: 10c0/078afa5990fba110f6824823ace86073b4638f1d5112ee26e790155f481f2a868cc3e0615505b6f4282bdf74a3d8caad715fd809e870c2bb0704e3ea6082f344
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~6.20.0":
+  version: 6.20.0
+  resolution: "undici-types@npm:6.20.0"
+  checksum: 10c0/68e659a98898d6a836a9a59e6adf14a5d799707f5ea629433e025ac90d239f75e408e2e5ff086afc3cace26f8b26ee52155293564593fbb4a2f666af57fc59bf
   languageName: node
   linkType: hard
 
